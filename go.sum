@@ -2,3 +2,7 @@ github.com/Jafeth17/dog v0.0.0-20241007154104-21c7aab22677 h1:wJX4Ok3xh7cx+KCff1
 github.com/Jafeth17/dog v0.0.0-20241007154104-21c7aab22677/go.mod h1:8sumFtn/MFrogkslzPJhMDSf848njwjfS1RLPe3JGtA=
 github.com/Jafeth17/puppy v0.0.0-20241007154458-d0fda941dccd h1:a7tUUcWblbDE6J8Gfw+T+e0gTIG6nuDTAqJqWswO0MM=
 github.com/Jafeth17/puppy v0.0.0-20241007154458-d0fda941dccd/go.mod h1:PqsjswWbyiIAFue3gSg2a+lk2YvYqys5yo/D402lzKo=
+github.com/Jafeth17/puppy v1.2.0 h1:uvFvibieBDLXeMXiqJjNadncE+4R4/cE3h3LPLrrnOA=
+github.com/Jafeth17/puppy v1.2.0/go.mod h1:PqsjswWbyiIAFue3gSg2a+lk2YvYqys5yo/D402lzKo=
+github.com/Jafeth17/puppy v1.3.0 h1:4p1O6A4yEb/SATL9sGenXZs9Xh/nHWHsHfLzTJv1Il4=
+github.com/Jafeth17/puppy v1.3.0/go.mod h1:PqsjswWbyiIAFue3gSg2a+lk2YvYqys5yo/D402lzKo=
